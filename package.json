@@ -1,0 +1,19 @@
+{
+  "name": "debug-winston",
+  "version": "1.0.2",
+  "description": "Debug library utilizing debug and winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Mulleady",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mulleady1/debug-winston.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.6.3",
+    "winston": "^2.3.1"
+  }
+}
