@@ -1,6 +1,6 @@
 {
   "name": "debug-winston",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Debug library utilizing debug and winston",
   "main": "index.js",
   "scripts": {
