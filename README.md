@@ -1,3 +1,5 @@
+# NOT MAINTAINED
+
 # debug-winston
 
 Wrapper around the wonderful libraries [`debug`][1] and [`winston`][1].
